@@ -1,4 +1,3 @@
-
 # schedule-buddy
-A schedule planner that helps students plan effectice schedules for their classes without a headache.
 
+A planner that helps students build workable class schedules without the headache.
